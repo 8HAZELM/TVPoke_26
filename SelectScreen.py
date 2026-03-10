@@ -108,9 +108,3 @@ class ForwardButton(Image):
     def onClick(self, screen):
         screen.state["pageNum"] += 1
         screen.updatePokemonShowing()
-
-    
-        
-# start stream main info.
-
-# reminder change the image back to a peg, not a jped.
